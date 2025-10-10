@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://website.com/sitemap.xml
+Sitemap: https://abuse-lawyers.com/sitemap.xml
